@@ -7,8 +7,8 @@ window = Tk()
 
 pixel = PhotoImage(width=1,height=1)
 #o = PIL.Image.open('x.png')
-oimg = itk.PhotoImage(file='o.png')
-ximg = itk.PhotoImage(file='x.png')
+oimg = itk.PhotoImage(file='o2.png')
+ximg = itk.PhotoImage(file='x2.png')
 
 
 turn = 'O'
